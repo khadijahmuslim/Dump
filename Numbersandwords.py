@@ -1,5 +1,5 @@
 class SmartList:
-  def _init_(self):
+  def __init__(self):
     self_numbers = []
     self_words = []
     self_mixed = []
