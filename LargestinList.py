@@ -1,7 +1,7 @@
 # find the largest numbers in lists
 
 class NumberList:
-  def _init_(self):
+  def __init__(self):
     self.numbers = []
 
   def input_numbers(self):
